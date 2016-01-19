@@ -26,6 +26,7 @@ doms = [
 	"Dimostra le proprietà delle operazioni tra matrici.",
 	"Dimostra che, data una base di V, la rappresentazione di un vettore di V rispetto la base data è unica.",
 	"Dimostra che i versori i e j sono base di R^2 e determina la dimensione di R^2.",
+	"Dimostra che dimV è il minimo numero di vettori che possono generare tutto V.",
 	"Dimostra che dimV corrisponde al numero massimo di vettori linearmente indipendenti.",
 	"Dimostra che, in ogni applicazione lineare, f(0_v) = 0_w",
 	"Dimostra che ker e Im sono sottospazi vettoriali rispettivamente di V e W.",

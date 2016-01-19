@@ -71,6 +71,7 @@ doms = [
 	"Varia il numero di elementi che compongono le basi di uno spazio vettoriale?",
 	"Dimostra che i versori i e j sono base di R^2 e determina la dimensione di R^2.",
 	"Dimostra che dimV corrisponde al numero massimo di vettori linearmente indipendenti.",
+	"Dimostra che dimV è il minimo numero di vettori che possono generare tutto V.",
 	"Qual è il minimo numero di vettori che può generare tutto V?",
 	"Che relazione c'è tra il determinante di una matrice e la verifica di linearità tra vettori?",
 	"Che relazione c'è tra la dimensione di un sottospazio di V e la dimensione dello spazio V?",
