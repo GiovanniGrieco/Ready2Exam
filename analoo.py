@@ -149,7 +149,7 @@ doms = [
 	"Integrali di II grado.",
 	"Area della regione di piano compresa tra 2 funzioni.",
 	"Formula di integrazione per parti.",
-	"Fai una domanda e scelta e risponditi."
+	"Fai una domanda a scelta e risponditi."
 ]
 
 def pseudorandomQuestion():
