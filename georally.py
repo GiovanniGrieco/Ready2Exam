@@ -24,7 +24,7 @@ import random
 
 doms = [
 	"Definisci una matrice trasposta generica.",
-	"Dimostra le proprietà delle operazioni tra matrici.",
+	"Verifica le proprietà delle operazioni tra matrici.",
 	"Determina le proprietà del calcolo del determinante di una matrice.",
 	"Definisci il teorema della matrice inversa.",
 	"Definisci il rango di una matrice.",
@@ -132,7 +132,7 @@ doms = [
 
 def pseudorandomQuestion():
 	random.seed()
-	i = random.randint(0, len(doms))
+	i = random.randint(0, len(doms)-1)
 	return doms[i]
 
 print("Georally by corsaro. Licensed by MIT License.")

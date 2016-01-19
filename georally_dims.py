@@ -23,7 +23,6 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 import random
 
 doms = [
-	"Dimostra le proprietà delle operazioni tra matrici.",
 	"Dimostra che, data una base di V, la rappresentazione di un vettore di V rispetto la base data è unica.",
 	"Dimostra che i versori i e j sono base di R^2 e determina la dimensione di R^2.",
 	"Dimostra che dimV è il minimo numero di vettori che possono generare tutto V.",
@@ -47,7 +46,7 @@ doms = [
 
 def pseudorandomQuestion():
 	random.seed()
-	i = random.randint(0, len(doms))
+	i = random.randint(0, len(doms)-1)
 	return doms[i]
 
 print("Georally by corsaro. Licensed by MIT License.")
