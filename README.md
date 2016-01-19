@@ -3,11 +3,12 @@
 _For international readers: this software is written in Italian, for Italian people. Thanks :)_
 
 Lista degli script con i rispettivi scopi:
-| Nome Script | Funzione |
-|-------------|----------|
-| georally | Geometria analitica. Tutto il programma.|
-| georally_minimal | Geometria analitica. Solo dimostrazioni. |
-| analoo | Analisi I. Tutto il programma. |
+
+Nome Script | Funzione
+------------|----------
+georally | Geometria analitica. Tutto il programma.
+georally_minimal | Geometria analitica. Solo dimostrazioni.
+analoo | Analisi I. Tutto il programma.
 
 Questi programmini sono stati scritti specificatamente per i programmi del CdL di *Ingegneria Informatica e dell'Automazione* del Politecnico di Bari, AA 15/16.
 
