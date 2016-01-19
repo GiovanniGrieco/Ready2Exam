@@ -127,7 +127,8 @@ doms = [
 	"Definisci e dimostra la condizione di parallelismo tra una retta ed un piano.",
 	"Definisci e dimostra la condizione di perpendicolarità tra piano e retta.",
 	"Definisci e dimostra il calcolo dell'angolo tra due piani.",
-	"Definisci e dimostra il calcolo dell'angolo tra un piano ed una retta."
+	"Definisci e dimostra il calcolo dell'angolo tra un piano ed una retta.",
+	"Determina e dimostra il legame che persiste tra l'autovettore di un endomorfismo e l'autovettore di una matrice. (AX=λX)"
 ]
 
 def pseudorandomQuestion():
