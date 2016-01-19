@@ -100,13 +100,13 @@ doms = [
 	"Definisci autovettore di un endomorfismo.",
 	"Definisci l'autovalore.",
 	"Definisci l'autospazio associato ad un autovalore.",
-	"Che legame persiste tra un endomorfismoe un autovettore di una matrice?",
+	"Che legame persiste tra un endomorfismo e un autovettore di una matrice associata all'endomorfismo?",
 	"Definisci il polinomio caratteristico.",
 	"Definisci l'equazione caratteristica.",
 	"Che relazione persiste tra matrici associate allo stesso endomorfismo rispetto a 2 differenti basi?",
 	"Come si determina l'autospazio associato ad un autovalore?",
 	"Cosa puoi dedurre per gli autovettori se hai un endomorfismo e gli autovalori sono distinti?",
-	"Che relazione c'è tra un autospazio e la molteplicità algebrica di uno stesso autovalore?",
+	"Che relazione c'è tra la dimensione di un autospazio e la molteplicità algebrica di uno stesso autovalore?",
 	"A cosa corrisponde la molteplicità algebrica? E la molteplicità geometrica?",
 	"Quando una matrice è diagonalizzabile?",
 	"Definisci la diagonalizzazione di una matrice.",
@@ -138,5 +138,5 @@ print("Georally by corsaro. Licensed by MIT License.")
 print("")
 while True:
 	print(pseudorandomQuestion())
-	input("Premi un tasto per continuare...")
+	input("Premi invio per continuare...")
 	print("")
